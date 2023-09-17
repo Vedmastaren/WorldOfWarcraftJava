@@ -8,6 +8,8 @@ Olika abilities att använda
 public class Warrior
 {
     int hp = 200;
+
+    double autoattack = (Math.floor(Math.random() * 5 + 5);
     double heavyAttack = (Math.floor(Math.random() * 35 + 20));
     double lightAttack = (Math.floor((Math.random() * 10) + 10));
     int execute = 50;               //Only allowed under 20hp
