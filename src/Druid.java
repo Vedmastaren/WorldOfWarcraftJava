@@ -6,11 +6,12 @@ public class Druid {
     boolean bearForm = 0;
     boolean travelForm = 0;
     System.out.println("Enter a number to change form (1 = bear-, 2 = cat-, 3 = travelform: ")
-    if(boolean == 1) {
+            int choice = scan.nextInt();)
+    if(choice == 1) {
         boolean catForm = true;
-        else if (boolean bearForm == 2) {
+        else if (choice bearForm == 2) {
             boolean bearForm = true;
-            else if (boolean travelForm == 3) {
+            else if (choice travelForm == 3) {
                 boolean travelForm = true;
             }
         }
