@@ -1,3 +1,5 @@
+package WorldOfWarcraftJava.src;
+
 public class Priest {
     int hp = 100;
     int mana = 200;

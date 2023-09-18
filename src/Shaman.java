@@ -1,3 +1,5 @@
+package WorldOfWarcraftJava.src;
+
 public class Shaman
 {
     int hp = 130;

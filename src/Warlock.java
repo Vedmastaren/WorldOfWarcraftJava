@@ -1,3 +1,5 @@
+package WorldOfWarcraftJava.src;
+
 public class Warlock {
 
     int hp = 120;

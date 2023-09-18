@@ -1,4 +1,4 @@
-/*
+package WorldOfWarcraftJava.src;/*
 Olika abilities att använda
 1. Heavy attack, 20-35 dmg, 3 rundor cooldown
 2. Light attack, 10-20 dmg, 1 runda cooldown

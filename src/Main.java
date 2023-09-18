@@ -1,4 +1,4 @@
-/*
+package WorldOfWarcraftJava.src;/*
 1. Välja olika klasser
     Warrior
     Paladin
@@ -33,7 +33,6 @@ public class Main
             switch (choice)
             {
                 case "1": //Warrior
-                    Druid();
 
                     break;
 

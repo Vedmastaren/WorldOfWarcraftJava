@@ -1,3 +1,5 @@
+package WorldOfWarcraftJava.src;
+
 public class Rogue {
     int hp = 130;
     int energy = 100;

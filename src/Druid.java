@@ -1,3 +1,5 @@
+package WorldOfWarcraftJava.src;
+
 import java.util.Scanner;
 public class Druid
 {
