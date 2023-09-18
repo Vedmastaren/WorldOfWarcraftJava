@@ -1,4 +1,5 @@
-public class Paladin {
+public class Paladin
+{
 
-    double autoattack = (Math.floor(Math.random() * 10 + 10);
+    double autoattack = (Math.floor(Math.random() * 10 + 10));
 }
